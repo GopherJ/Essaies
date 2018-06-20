@@ -1,6 +1,6 @@
 # Essaies
 
-- ThreeFish And CramerShoup Algorithm
+- CramerShoup Algorithm
 - Smooth Zoom Pan Algorithm
 - Uart Protocol
 
