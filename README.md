@@ -1,6 +1,7 @@
 # Essaies
 
-- CramerShoup Algorithm
-- Smooth Zoom Pan Algorithm
+- CramerShoup
+- Smooth Zoom Pan
 - Uart Protocol
+- BLE Triangulation
 
