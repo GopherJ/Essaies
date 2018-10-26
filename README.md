@@ -5,4 +5,5 @@
 - Uart Protocol
 - BLE Triangulation
 - Encoded Polyline
+- Huffman
 
